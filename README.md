@@ -65,6 +65,12 @@ Config.Buildings = {
 
 ---
 
+## 💾 Preview
+<img width="368" height="717" alt="image" src="https://github.com/user-attachments/assets/d80f2e47-821d-4f45-8c6b-015b125ee2a1" />
+<img width="255" height="685" alt="image" src="https://github.com/user-attachments/assets/f7a70821-c74a-431a-bdf6-49f965ca441f" />
+
+---
+
 ## 📜 License
 
 MIT License – feel free to use, modify, and share.
